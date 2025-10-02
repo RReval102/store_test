@@ -61,7 +61,6 @@ PETSTORE_BASE_URL=http://localhost:8080/v2 pytest -v
 
 ```
 petstore_tests/
-├── README.md           – этот файл
 ├── requirements.txt    – список зависимостей
 ├── pytest.ini          – конфигурация pytest
 ├── conftest.py         – фикстуры для тестов
